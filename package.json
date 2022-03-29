@@ -1,0 +1,22 @@
+{
+  "name": "medium-post",
+  "version": "1.0.0",
+  "description": "Code example for Factory Pattern Medium post",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "factory",
+    "pattern",
+    "objects",
+    "creation",
+    "javascript"
+  ],
+  "author": "Alex De Luca",
+  "license": "ISC"
+}
